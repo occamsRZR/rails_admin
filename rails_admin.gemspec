@@ -10,12 +10,12 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'coffee-rails', ['>= 3.1', '< 5']
   spec.add_dependency 'font-awesome-rails', '~> 3.0'
   spec.add_dependency 'haml', '~> 4.0'
-  spec.add_dependency 'jquery-rails', ['>= 2.1', '< 4']
-  spec.add_dependency 'jquery-ui-rails', '~> 3.0'
+  spec.add_dependency 'jquery-rails', '~> 2.0'
+  spec.add_dependency 'jquery-ui-rails'
   spec.add_dependency 'kaminari', '~> 0.14'
   spec.add_dependency 'nested_form', '~> 0.3'
   spec.add_dependency 'rack-pjax', '~> 0.6'
-  spec.add_dependency 'rails', '~> 3.1'
+  spec.add_dependency 'rails', '~> 3.2'
   spec.add_dependency 'remotipart', '~> 1.0'
   spec.add_dependency 'safe_yaml', '~> 0.6'
   spec.add_dependency 'sass-rails', '~> 3.1'
